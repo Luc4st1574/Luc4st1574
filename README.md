@@ -13,7 +13,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="start">
-    <summary><h2 style="display: inline-block">I am a passionate and innovative software developer with over 5 years of experience in crafting cutting-edge solutions in the tech industry. As an entrepreneur, I stay ahead of the curve with the latest trends in computing and business, continuously integrating new technologies and methodologies. My strong problem-solving skills and dedication to excellence enable me to deliver high-quality, scalable software solutions. I thrive in dynamic environments and am committed to driving success through collaboration and continuous learning.</h2></summary>
+    <summary><h2 style="display: inline-block">Hello! I'm a passionate software developer with a strong enthusiasm for continuous learning and exploration in the tech world. My interests span across various domains, with a particular focus on web development, machine learning, and systems programming. I'm proficient in several programming languages, including Python and Rust, and I'm always eager to dive into new technologies and frameworks.</h2></summary>
   </ul>
 </div>
 
