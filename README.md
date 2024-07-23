@@ -24,7 +24,7 @@
 - **Documentation:** Notion
 - **Frameworks:** Spring Boot, Django, Strapi, Trcp, Angular, Vue, React, Next.js, Node.js, Serverless
 - **Databases:** MySQL, SQLServer, PostgreSQL, MongoDB,
-- **Languages:** C++, Python, PHP, Rust, Java, Solidity, HTML, CSS3, TypeScript, JavaScript, Dart
+- **Languages:** C++, Python, PHP, Rust, Java, HTML, CSS3, TypeScript, JavaScript, Dart
 - **Design:** Photoshop, Premiere Pro, After Effects, Audition, Cinema4D
 - **Others:** Blockchain y Web3, Machine Learning, Kubernetes, Docker, AWS
 
@@ -44,7 +44,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,aws,docker,kubernetes,redis,postgres,prisma,dynamodb,mongodb,mysql,sqlite,firebase,html,java,js,ts,py,solidity,php,css,sass,materialui,tailwind,bootstrap,nginx,nodejs,express,nestjs,nextjs,vue,react,angular,redux,laravel,postman,linux,vscode,spring,figma,notion&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,xd,figma,blender,unity,unreal,notion,md,cmake,docker,kubernetes,postman,c,cs,cpp,dart,go,java,kotlin,nodejs,php,py,rust,swift,ts,html,css,js,angular,bootstrap,django,dotnet,flask,flutter,laravel,react,spring,vue,pytorch,sklearn,tensorflow,visualstudio,vscode,arduino,androidstudio,linux,bash,anaconda,powershell,npm,pnpm,git,github,githubactions,azure,aws,cloudflare,firebase,mongodb,mysql,postgres,sqlite&perline=14" />
   </a>
 </p>
 
