@@ -7,7 +7,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/francogallegosqu/francogallegosqu/blob/main/bannergithub.png" alt="Banner">
+  <img src="https://github.com/Luc4st1574/Luc4st1574/blob/main/1705114483615.jpeg" alt="Banner">
 </p>
 
 <!--h2 without bottom border-->
