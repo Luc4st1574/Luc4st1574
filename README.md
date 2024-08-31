@@ -57,9 +57,19 @@
   </ul>
 </div>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">MY CODING COMMUNITY</h2></summary>
+  </ul>
+</div>
+
+YOU CAN JOIN MY **DISCORD SEVER**  HERE ---> [![](https://dcbadge.limes.pink/api/server/https://discord.gg/smzHyCNpnQ)](https://discord.gg/https://discord.gg/smzHyCNpnQ)
+
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/lucassantillana/" target="_blank">
 <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
 </a>
 </p>
+
+
