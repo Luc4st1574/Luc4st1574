@@ -50,12 +50,6 @@
 
 
 <!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"> 📫 Connect With Me🤝</h2></summary>
-  </ul>
-</div>
 
 <div id="user-content-toc">
   <ul align="center">
@@ -63,7 +57,14 @@
   </ul>
 </div>
 
-YOU CAN JOIN MY **DISCORD SEVER**  HERE ---> [![](https://dcbadge.limes.pink/api/server/https://discord.gg/smzHyCNpnQ)](https://discord.gg/https://discord.gg/smzHyCNpnQ)
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/smzHyCNpnQ)](https://discord.gg/https://discord.gg/smzHyCNpnQ)
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> 📫 Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
 <!--icons and links-->
 <p align="center">
