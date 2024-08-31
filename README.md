@@ -76,5 +76,11 @@
 </a>
 </p>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">GITHUB STATS 📈</h2></summary>
+  </ul>
+</div>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Luc4st1574&show_icons=true&theme=gotham" alt="Luc4st1574" />
 
