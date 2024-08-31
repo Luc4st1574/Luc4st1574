@@ -53,14 +53,15 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">MY CODING COMMUNITY</h2></summary>
+    <summary><h2 style="display: inline-block;">JOIN MY CODING COMMUNITY</h2></summary>
   </ul>
 </div>
 
-<div>
-  <ul align "center">
-    <br>`[![](https://dcbadge.limes.pink/api/server/https://discord.gg/smzHyCNpnQ)](https://discord.gg/https://discord.gg/smzHyCNpnQ)`
-  </ul>
+<div align="center">
+  <br>
+  <a href="https://discord.gg/smzHyCNpnQ">
+    <img src="https://dcbadge.limes.pink/api/server/smzHyCNpnQ" alt="Join my Discord server">
+  </a>
 </div>
 
 
