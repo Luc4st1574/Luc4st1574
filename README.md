@@ -59,7 +59,7 @@
 
 <div>
   <ul align "center">
-    [![](https://dcbadge.limes.pink/api/server/https://discord.gg/smzHyCNpnQ)](https://discord.gg/https://discord.gg/smzHyCNpnQ)
+    <br>`[![](https://dcbadge.limes.pink/api/server/https://discord.gg/smzHyCNpnQ)](https://discord.gg/https://discord.gg/smzHyCNpnQ)`
   </ul>
 </div>
 
