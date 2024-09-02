@@ -17,6 +17,12 @@
   </ul>
 </div>
 
+## Sobre Mi
+
+- ⭐ Github Star ⭐
+- 🧊 MSP Founder
+- ▶️ Youtuber +4.5k Followers
+- </> Full Stack Developer
 
 <!--Intro start-->
 ## 🔧 Skills
