@@ -13,7 +13,21 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="start">
-    <summary><h2 style="display: inline-block">Hello! I'm a passionate software developer with a strong enthusiasm for continuous learning and exploration in the tech world. My interests span across various domains, with a particular focus on web development, machine learning, and systems programming. I'm proficient in several programming languages, including Python and Rust, and I'm always eager to dive into new technologies and frameworks.</h2></summary>
+    <summary><h2 style="display: inline-block">👋 Hello there!
+I'm a passionate software developer 🌟 with a strong enthusiasm for continuous learning 📚 and exploration in the tech world 💻.
+
+🌐 My interests span across various domains, with a particular focus on:
+
+Web Development 🌍
+Machine Learning 🤖
+Systems Programming 🛠️
+⚙️ I'm proficient in several programming languages, including:
+
+Python 🐍
+Rust 🦀
+Go 🏎️
+JavaScript ✨
+I'm always excited to dive into new technologies and frameworks 🚀, eager to build innovative solutions and grow as a developer. 💡</h2></summary>
   </ul>
 </div>
 
