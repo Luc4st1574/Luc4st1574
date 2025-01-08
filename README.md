@@ -10,7 +10,7 @@
   <img src="https://github.com/Luc4st1574/Luc4st1574/blob/main/1705114483615.jpeg" alt="Banner">
 </p>
 
-## 👋 Hello there!
+## 👋 About Me!
 
 I'm a **passionate software developer** 🌟 with a strong enthusiasm for **continuous learning** 📚 and exploration in the tech world 💻.
 
@@ -28,10 +28,12 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 - **Rust** 🦀  
 - **Go** 🏎️  
 - **JavaScript** ✨  
+- **Dart** 🎯  
 
 ---
 
 🚀 I'm always excited to dive into **new technologies** and frameworks, eager to build innovative solutions and grow as a developer. 💡
+
 
 
 ## 🤓☝️ About Me
