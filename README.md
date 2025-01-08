@@ -10,26 +10,29 @@
   <img src="https://github.com/Luc4st1574/Luc4st1574/blob/main/1705114483615.jpeg" alt="Banner">
 </p>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="start">
-    <summary><h2 style="display: inline-block">👋 Hello there!
-I'm a passionate software developer 🌟 with a strong enthusiasm for continuous learning 📚 and exploration in the tech world 💻.
+## 👋 Hello there!
 
-🌐 My interests span across various domains, with a particular focus on:
+I'm a **passionate software developer** 🌟 with a strong enthusiasm for **continuous learning** 📚 and exploration in the tech world 💻.
 
-Web Development 🌍
-Machine Learning 🤖
-Systems Programming 🛠️
-⚙️ I'm proficient in several programming languages, including:
+---
 
-Python 🐍
-Rust 🦀
-Go 🏎️
-JavaScript ✨
-I'm always excited to dive into new technologies and frameworks 🚀, eager to build innovative solutions and grow as a developer. 💡</h2></summary>
-  </ul>
-</div>
+### 🌐 My Interests
+- **Web Development** 🌍  
+- **Machine Learning** 🤖  
+- **Systems Programming** 🛠️  
+
+---
+
+### ⚙️ Proficient Programming Languages
+- **Python** 🐍  
+- **Rust** 🦀  
+- **Go** 🏎️  
+- **JavaScript** ✨  
+
+---
+
+🚀 I'm always excited to dive into **new technologies** and frameworks, eager to build innovative solutions and grow as a developer. 💡
+
 
 ## 🤓☝️ About Me
 
