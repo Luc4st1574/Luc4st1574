@@ -10,18 +10,17 @@
   <img src="https://github.com/Luc4st1574/Luc4st1574/blob/main/1705114483615.jpeg" alt="Banner">
 </p>
 
+#
+
 ## 👋 About Me!
 
 I'm a **passionate software developer** 🌟 with a strong enthusiasm for **continuous learning** 📚 and exploration in the tech world 💻.
-
----
 
 ### 🌐 My Interests
 - **Web Development** 🌍  
 - **Machine Learning** 🤖  
 - **Systems Programming** 🛠️  
 
----
 
 ### ⚙️ Proficient Programming Languages
 - **Python** 🐍  
@@ -29,8 +28,6 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 - **Go** 🏎️  
 - **JavaScript** ✨  
 - **Dart** 🎯  
-
----
 
 🚀 I'm always excited to dive into **new technologies** and frameworks, eager to build innovative solutions and grow as a developer. 💡
 
@@ -44,7 +41,7 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 - </> Full Stack Developer
 - 👾 APEC Hackathon Regional Winner
 
-
+#
 
 <!--Intro start-->
 ## 🔧 Skills
