@@ -36,12 +36,13 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 
 
 
-## 🤓☝️ About Me
+## 🤓☝️ Milestones
 
 - ⭐ Github Star ⭐
 - 🧊 MSP Founder
-- ▶️ Youtuber +4.5k Followers
+- ▶️ Youtuber +5k Followers
 - </> Full Stack Developer
+- 👾 APEC Hackathon Regional Winner
 
 
 
