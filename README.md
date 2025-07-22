@@ -16,17 +16,11 @@
 I'm a **passionate software developer** 🌟 with a strong enthusiasm for **continuous learning** 📚 and exploration in the tech world 💻.
 
 ### 🌐 My Interests
-- **Web Development** 🌍  
+- **Web Development** 🌍
+- **Mobile Development** 📲
 - **Machine Learning** 🤖  
 - **Systems Programming** 🛠️  
 
-
-### ⚙️ Proficient Programming Languages
-- **Python** 🐍  
-- **Rust** 🦀  
-- **Go** 🏎️  
-- **JavaScript** ✨  
-- **Dart** 🎯  
 
 🚀 I'm always excited to dive into **new technologies** and frameworks, eager to build innovative solutions and grow as a developer. 💡
 
@@ -67,7 +61,7 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 </div>
 
 
-## 🌐 Web Frameworks
+### 🌐 Web Frameworks
 
 <!--tech stack icons-->
 <p align="center">
