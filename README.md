@@ -60,16 +60,103 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
   </ul>
 </div>
 
+<div align="center">
+  <h3>🌟 Frontend Frameworks</h3>
+</div>
 
-<h3 style="text-align: center;">🌐 Web Frameworks</h3>
+<br>
 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,nextjs,react,angular,nuxtjs,vue,htmx,laravel,php,html,css,js&perline=14&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=astro,nextjs,react,angular,nuxtjs,vue,htmx,dotnet,laravel,php,html,css,js&perline=14&theme=dark" />
   </a>
 </p>
 
+<br>
+
+
+<div align="center">
+  <h3>📟 Programing Languages</h3>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,rust,dart,nodejs,ts,kotlin,swift,java,c,cpp,cs&perline=14&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <h3>🌐 Backend Frameworks</h3>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,express,nestjs,spring&perline=14&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <h3>📱 Mobile Development</h3>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio&perline=14&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <h3>💾 Data Base</h3>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,graphql&perline=14&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <h3>☁️ Cloud Services</h3>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=14&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <h3>📦 Packet Managers</h3>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,pnpm,bun,bash,deno&perline=14&theme=dark" />
+  </a>
+</p>
 
 <!-- Connect with me -->
 
