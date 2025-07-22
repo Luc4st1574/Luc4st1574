@@ -61,7 +61,7 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 </div>
 
 
-### 🌐 Web Frameworks
+<h3 style="text-align: center;">🌐 Web Frameworks</h3>
 
 <!--tech stack icons-->
 <p align="center">
