@@ -1,4 +1,4 @@
-<!--h1 without bottom border-->
+<img width="1760" height="855" alt="image" src="https://github.com/user-attachments/assets/747a8073-68ef-40da-bdc6-e21bafdf0b90" /><img width="1760" height="855" alt="image" src="https://github.com/user-attachments/assets/daf6bc48-c5dd-4bb9-8dac-77f775476ebd" /><!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block; color: red">Hi 👋, I'm <span style="color: blue">Lucas Santillan</span></h1></summary>
@@ -66,10 +66,14 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
+
+## 🌐 Web Frameworks
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,xd,figma,blender,unity,unreal,notion,md,cmake,docker,kubernetes,postman,c,cs,cpp,dart,go,java,kotlin,nodejs,php,py,rust,swift,html,css,js,ts,angular,bootstrap,django,dotnet,flask,flutter,laravel,react,spring,vue,pytorch,sklearn,tensorflow,visualstudio,vscode,arduino,androidstudio,linux,bash,anaconda,powershell,npm,pnpm,git,github,githubactions,azure,aws,cloudflare,firebase,mongodb,mysql,postgres,sqlite&perline=6&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=astro,nextjs,react,angular,nuxtjs,vue,htmx,laravel,php,html,css,js&perline=14&theme=dark" />
   </a>
 </p>
 
