@@ -69,7 +69,7 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,xd,figma,blender,unity,unreal,notion,md,cmake,docker,kubernetes,postman,c,cs,cpp,dart,go,java,kotlin,nodejs,php,py,rust,swift,html,css,js,ts,angular,bootstrap,django,dotnet,flask,flutter,laravel,react,spring,vue,pytorch,sklearn,tensorflow,visualstudio,vscode,arduino,androidstudio,linux,bash,anaconda,powershell,npm,pnpm,git,github,githubactions,azure,aws,cloudflare,firebase,mongodb,mysql,postgres,sqlite&perline=50&theme=dark" />
   </a>
 </p>
 
