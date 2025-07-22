@@ -1,4 +1,3 @@
-<img width="1760" height="855" alt="image" src="https://github.com/user-attachments/assets/747a8073-68ef-40da-bdc6-e21bafdf0b90" /><img width="1760" height="855" alt="image" src="https://github.com/user-attachments/assets/daf6bc48-c5dd-4bb9-8dac-77f775476ebd" /><!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block; color: red">Hi 👋, I'm <span style="color: blue">Lucas Santillan</span></h1></summary>
