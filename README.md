@@ -61,7 +61,7 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 </div>
 
 <div align="center">
-  <h3>🌟 Frontend Frameworks</h3>
+  <h3>🌟 Frontend Frameworks and Tools</h3>
 </div>
 
 <br>
@@ -69,7 +69,7 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,nextjs,react,angular,nuxtjs,vue,htmx,dotnet,laravel,php,html,css,js&perline=14&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=astro,nextjs,react,angular,nuxtjs,vues,velte,solidjs,htmx,dotnet,jquery,laravel,php,html,css,js,bootstrap,tailwind,threejs,p5js,vite,vitest,vercel,apollo&perline=14&theme=dark" />
   </a>
 </p>
 
@@ -112,7 +112,7 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio&perline=14&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,react,gradle,androidstudio,apple&perline=14&theme=dark" />
   </a>
 </p>
 
@@ -126,35 +126,77 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,graphql&perline=14&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql,postgres,graphql,pkl&perline=14&theme=dark" />
   </a>
 </p>
 
 <br>
 
 <div align="center">
-  <h3>☁️ Cloud Services</h3>
+  <h3>☁️ Cloud Services and Git</h3>
 </div>
 
 <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=14&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,postman,git,bitbucket,github,gitlab,githubactions&perline=14&theme=dark" />
   </a>
 </p>
 
 <br>
 
 <div align="center">
-  <h3>📦 Packet Managers</h3>
+  <h3>🤖 Ai Tools</h3>
 </div>
 
 <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,pnpm,bun,bash,deno&perline=14&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,tensorflow&perline=14&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <h3>🎮 Game Development</h3>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot,unity,unreal&perline=14&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <h3>📦 Packet Managers, OS and Containers</h3>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,pnpm,bun,bash,deno,linux,arch,kali,ubuntu,debian,docker,kubernetes,jenkins&perline=14&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <h3>🖌️ Design Tools</h3>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,au,ae,xd,figma&perline=14&theme=dark" />
   </a>
 </p>
 
