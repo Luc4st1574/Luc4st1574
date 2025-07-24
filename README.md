@@ -69,7 +69,7 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,nextjs,react,angular,nuxtjs,vues,velte,solidjs,htmx,dotnet,jquery,laravel,php,html,css,js,bootstrap,tailwind,threejs,p5js,vite,vitest,vercel,apollo&perline=14&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=astro,nextjs,react,angular,nuxtjs,vue,svelte,solidjs,htmx,dotnet,jquery,laravel,php,html,css,js,bootstrap,tailwind,threejs,p5js,vite,vitest,vercel,apollo&perline=14&theme=dark" />
   </a>
 </p>
 
